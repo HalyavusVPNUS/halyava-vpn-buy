@@ -2,7 +2,7 @@
 #profile-update-interval: 3
 #subscription-userinfo: expire=1793664000; total=10995116277760; used=0
 #profile-web-page-url: https://t.me/halyava_vpnz
-#announce: 🚀 Халява ВПН | Subs • Подборка конфигов из платных подписок | @halyava_vpnz
+#announce: 🚀 Халява ВПН | Subs • Подборка конфигов из платных подписок
 
 vless://56ae4ec4-6705-43d0-bf3a-bc36ab3b3545@nld-01.node.lumixnet.com:443?type=xhttp&security=reality&encryption=none&sni=nld-01.node.lumixnet.com&pbk=5xGLTT4UpMz0e_jhPnukNWSums2LntehfHftBmhu7j8&sid=5d129292338820e4&fp=hellochrome_120&path=%2Fapi%2Fstream%2Fv4%2Fc6aef220b374c230&mode=stream-up#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%231
 vless://56ae4ec4-6705-43d0-bf3a-bc36ab3b3545@nld-01.node.lumixnet.com:443?type=xhttp&security=reality&encryption=none&sni=nld-01.node.lumixnet.com&pbk=5xGLTT4UpMz0e_jhPnukNWSums2LntehfHftBmhu7j8&sid=5d129292338820e4&fp=firefox&path=%2Fapi%2Fstream%2Fv4%2Fc6aef220b374c230&mode=stream-up#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%232
